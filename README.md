@@ -96,5 +96,3 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
   <img src="assets/images/zlivio-dashboard.png" width="250" alt="Zlivio Dashboard">
 </div>
 
-## 🖼️ Sample Videos
-

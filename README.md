@@ -71,8 +71,8 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
 
 <div align="center">
   <img src="assets/images/asure.png" width="250" alt="Asure">
-  <img src="assets/images/Custody-1.png" width="250" alt="Custody-1">
-  <img src="assets/images/Custory-web-1.png" width="250" alt="Custory-web-1">
+  <img src="assets/images/custody-1.png" width="250" alt="Custody-1">
+  <img src="assets/images/custory-web-1.png" width="250" alt="Custory-web-1">
 </div>
 
 <div align="center">

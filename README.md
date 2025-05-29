@@ -67,7 +67,9 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
 - 🌐 Portfolio: https://farrukh-shahzad.format.com/portfolio
 - 💼 LinkedIn: https://www.linkedin.com/in/farrukh-shahzad-111103ab/
 
-## 🖼️ Project Screenshots
+---
+
+## 🖼️ Sample Screenshots
 
 <div align="center">
   <img src="assets/images/asure.png" width="250" alt="Asure">
@@ -93,4 +95,6 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
   <img src="assets/images/zlivio-clients-grid.png" width="250" alt="Zlivio Grid">
   <img src="assets/images/zlivio-dashboard.png" width="250" alt="Zlivio Dashboard">
 </div>
+
+## 🖼️ Sample Videos
 

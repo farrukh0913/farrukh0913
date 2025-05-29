@@ -67,3 +67,30 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
 - 🌐 Portfolio: https://farrukh-shahzad.format.com/portfolio
 - 💼 LinkedIn: https://www.linkedin.com/in/farrukh-shahzad-111103ab/
 
+## 🖼️ Project Screenshots
+
+<div align="center">
+  <img src="assets/images/asure.png" width="250" alt="Asure">
+  <img src="assets/images/Custody-1.png" width="250" alt="Custody-1">
+  <img src="assets/images/Custory-web-1.png" width="250" alt="Custory-web-1">
+</div>
+
+<div align="center">
+  <img src="assets/images/gps-app-member-location.png" width="250" alt="GPS Location">
+  <img src="assets/images/gps-app-member-location-history.png" width="250" alt="GPS History">
+  <img src="assets/images/hydration-reminder-app.png" width="250" alt="Hydration Reminder">
+</div>
+
+<div align="center">
+  <img src="assets/images/motomate-published-app.png" width="250" alt="Motomate App">
+  <img src="assets/images/social-vid-downloader-app-1.png" width="250" alt="Video Downloader 1">
+  <img src="assets/images/social-vid-downloader-app-2.png" width="250" alt="Video Downloader 2">
+</div>
+
+<div align="center">
+  <img src="assets/images/water-reminer-app.png" width="250" alt="Water Reminder">
+  <img src="assets/images/zlivio-charts.png" width="250" alt="Zlivio Charts">
+  <img src="assets/images/zlivio-clients-grid.png" width="250" alt="Zlivio Grid">
+  <img src="assets/images/zlivio-dashboard.png" width="250" alt="Zlivio Dashboard">
+</div>
+

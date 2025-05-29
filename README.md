@@ -6,6 +6,17 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
 
 ---
 
+## 🎓 Education
+
+- **Master of Science in Information Technology (MSIT)**  
+  2013 - 2015
+
+- **Bachelor of Science in Information Technology (Hons)**  
+  2009 - 2013
+
+---
+
+
 ## 💼 Experience & Skills
 
 - **Languages & Frameworks**: C#, Angular, Ionic, React, Vue.js, Cordova, NodeJS, NestJS, ASP.Net, TypeScript, JavaScript

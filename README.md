@@ -41,16 +41,15 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
 - [MCS Webserver](https://mcswebserverapptest.azurewebsites.net/) – Ionic + .NET Core
 - [Block Party](http://block-party.app/) – Ionic + Firebase
 - [Larat Frontend](https://larat-frontend.herokuapp.com/) – Angular 12
-- [Total Party Planner](https://app.totalpartyplanner.com/crm/prod/1.0.2/login) – React + .NET Core
 - [Notifier](https://notifier.crm.zlivio.com/api/) – NestJS, GraphQL, Express, Socket.io
 
-- AsureHCM (https://portal.dev.asurehcm.com/home) – Vue.js, Pinia, and Unit Testing
-- Chatbot App (https://github.com/farrukh0913/chatbot) – Vue 3, Tailwind CSS
-- E-commerce App (https://github.com/farrukh0913/Ecommerce) – Vue 3, Tailwind, Firebase
+- [AsureHCM] (https://portal.dev.asurehcm.com/home) – Vue.js, Pinia, and Unit Testing
+- [Chatbot App] (https://github.com/farrukh0913/chatbot) – Vue 3, Tailwind CSS
+- [E-commerce App] (https://github.com/farrukh0913/Ecommerce) – Vue 3, Tailwind, Firebase
 
-- Custory (https://staging.d3kj3y82x6yiqb.amplifyapp.com/) – React, NodeJS, Postgres, Prisma, and AWS
-- Findd.io (https://www.findd.io) – React 16, .NET Core API, MobX, Entity Framework, JWT Authentication, TypeScript, MySQL
-- Total Party Planner (https://app.totalpartyplanner.com/crm/prod/1.0.2/login) – React, .NET Core, SQL Server
+- [Custory] (https://staging.d3kj3y82x6yiqb.amplifyapp.com/) – React, NodeJS, Postgres, Prisma, and AWS
+- [Findd.io] (https://www.findd.io) – React 16, .NET Core API, MobX, Entity Framework, JWT Authentication, TypeScript, MySQL
+- [Total Party Planner] (https://app.totalpartyplanner.com/crm/prod/1.0.2/login) – React, .NET Core, SQL Server
 
 ### 🔹 C# / ASP.NET Projects
 - [Unisoft](https://unisoft.duciseng.com) – ASP.NET Core MVC, Entity Framework, Power BI, D3.js

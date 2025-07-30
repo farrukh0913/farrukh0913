@@ -61,6 +61,7 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
 - [Custory] (https://staging.d3kj3y82x6yiqb.amplifyapp.com/) – React, NodeJS, Postgres, Prisma, and AWS
 - [Findd.io] (https://www.findd.io) – React 16, .NET Core API, MobX, Entity Framework, JWT Authentication, TypeScript, MySQL
 - [Total Party Planner] (https://app.totalpartyplanner.com/crm/prod/1.0.2/login) – React, .NET Core, SQL Server
+- [Lexfund] (​​https://dev.lexfund.com/signup) (React, NextJS, AWS)
 
 ### 🔹 C# / ASP.NET Projects
 - [Unisoft](https://unisoft.duciseng.com) – ASP.NET Core MVC, Entity Framework, Power BI, D3.js

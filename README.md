@@ -53,7 +53,6 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
 - [Block Party](http://block-party.app/) – Ionic + Firebase
 - [Larat Frontend](https://larat-frontend.herokuapp.com/) – Angular 12
 - [Notifier](https://notifier.crm.zlivio.com/api/) – NestJS, GraphQL, Express, Socket.io
-- [AsureHCM] (https://portal.dev.asurehcm.com/home) – Vue.js, Pinia, and Unit Testing
 - [Chatbot App] (https://github.com/farrukh0913/chatbot) – Vue 3, Tailwind CSS
 - [E-commerce App] (https://github.com/farrukh0913/Ecommerce) – Vue 3, Tailwind, Firebase
 - [Custory] (https://staging.d3kj3y82x6yiqb.amplifyapp.com/) – React, NodeJS, Postgres, Prisma, and AWS

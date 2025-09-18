@@ -2,7 +2,7 @@
 
 I'm a highly skilled and energetic Full Stack Developer with 5+ years of experience building **responsive web** and **mobile applications**, **CRM systems**, **e-commerce platforms**, **IoT solutions**, and **API development**. I specialize in delivering high-quality, scalable solutions and have a strong background in working with teams in corporate environments. Let’s collaborate to bring your project to life!
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" alt="Portfolio" width="18" height="18"/> **My Portfolio**: [farrukh-shahzad.format.com/portfolio](https://farrukh-shahzad.format.com/portfolio)  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aboutdotme.svg" alt="Portfolio" width="18" height="18"/> **Portfolio**: [farrukh-shahzad.format.com/portfolio](https://farrukh-shahzad.format.com/portfolio)  
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="18" height="18"/> **LinkedIn**: [linkedin.com/in/farrukh-shahzad-111103ab](https://www.linkedin.com/in/farrukh-shahzad-111103ab/)
 

@@ -4,7 +4,9 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
 
 🌐 **Portfolio**: [farrukh-shahzad.format.com/portfolio](https://farrukh-shahzad.format.com/portfolio)
 
-![LinkedIn](assets/images/linkedin.jpg){width=18 height=18} **LinkedIn**: [linkedin.com/in/farrukh-shahzad-111103ab](https://www.linkedin.com/in/farrukh-shahzad-111103ab/)
+<a href="https://www.linkedin.com/in/farrukh-shahzad-111103ab/" target="_blank">
+  <img src="assets/images/linkedin.jpg" alt="LinkedIn" width="18" height="18" />
+</a> **LinkedIn**: [linkedin.com/in/farrukh-shahzad-111103ab](https://www.linkedin.com/in/farrukh-shahzad-111103ab/)
 
 ---
 

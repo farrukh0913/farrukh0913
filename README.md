@@ -77,7 +77,7 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
 
 - 📧 Email: farrukh.khan0913@gmail.com
 - 🌐 Portfolio: https://farrukh-shahzad.format.com/portfolio
-- <img src="assets/images/linkedin.png" alt="LinkedIn" width="20" height="20" /> LinkedIn: https://www.linkedin.com/in/farrukh-shahzad-111103ab/
+- <img src="assets/images/linkedin.png" alt="LinkedIn" width="24" height="24" valign="middle"/> LinkedIn: https://www.linkedin.com/in/farrukh-shahzad-111103ab/
 
 ---
 

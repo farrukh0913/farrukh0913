@@ -42,6 +42,7 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
 
 ### 🔹 Angular / NodeJS / NestJS / NextJs / Vue / React
 
+- [MyImprint]((https://dev.myimprint.ca/)) – Angular, NodeJS, Three.js, PostgreSQL, Chart.JS, Socket.io
 - [Intellija](https://dev.intellija.com/) – Angular 13, Ag-grid, Gridster2, HighCharts, PostgreSQL, GraphQL, Hasura, RxJS, Socket.io
 - [Zlivio](https://zlivio.com/web/login) – Angular 12, NestJS, AWS, GraphQL, Socket.io, Twilio, SendGrid
 - [Tonal Transit](https://tonal-transit-333914.web.app/home) – Angular 14, Firebase, Ngrx, Material UI

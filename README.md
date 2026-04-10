@@ -56,14 +56,14 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
 - [Block Party](http://block-party.app/) – Ionic + Firebase
 - [Larat Frontend](https://larat-frontend.herokuapp.com/) – Angular 12
 - [Notifier](https://notifier.crm.zlivio.com/api/) – NestJS, GraphQL, Express, Socket.io
-- [Chatbot App] (https://github.com/farrukh0913/chatbot) – Vue 3, Tailwind CSS
-- [E-commerce App] (https://github.com/farrukh0913/Ecommerce) – Vue 3, Tailwind, Firebase
-- [Custory] (https://staging.d3kj3y82x6yiqb.amplifyapp.com/) – React, NodeJS, Postgres, Prisma, and AWS
-- [Bremaira] (https://develop.d3j3fv57v1jday.amplifyapp.com/) – React, NodeJS, Postgres, Prisma, S3, Mosquitto, and AWS
-- [Findd.io] (https://www.findd.io) – React 16, .NET Core API, MobX, Entity Framework, JWT Authentication, TypeScript, MySQL
-- [Total Party Planner] (https://app.totalpartyplanner.com/crm/prod/1.0.2/login) – React, .NET Core, SQL Server
-- [Lexfund] (​​https://dev.lexfund.com/signup) (React, NextJS, AWS)
-- [Get Nugget] (https://app.getnugget.net/dashboard/explore) - Angular
+- [Chatbot App](https://github.com/farrukh0913/chatbot) – Vue 3, Tailwind CSS
+- [E-commerce App](https://github.com/farrukh0913/Ecommerce) – Vue 3, Tailwind, Firebase
+- [Custory](https://staging.d3kj3y82x6yiqb.amplifyapp.com/) – React, NodeJS, Postgres, Prisma, and AWS
+- [Bremaira](https://develop.d3j3fv57v1jday.amplifyapp.com/) – React, NodeJS, Postgres, Prisma, S3, Mosquitto, and AWS
+- [Findd.io](https://www.findd.io) – React 16, .NET Core API, MobX, Entity Framework, JWT Authentication, TypeScript, MySQL
+- [Total Party Planner](https://app.totalpartyplanner.com/crm/prod/1.0.2/login) – React, .NET Core, SQL Server
+- [Lexfund](​​https://dev.lexfund.com/signup) (React, NextJS, AWS)
+- [Get Nugget](https://app.getnugget.net/dashboard/explore) - Angular
 
 ### 🔹 C# / ASP.NET Projects
 - [Unisoft](https://unisoft.duciseng.com) – ASP.NET Core MVC, Entity Framework, Power BI, D3.js

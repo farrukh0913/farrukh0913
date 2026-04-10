@@ -62,7 +62,7 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
 - [Bremaira](https://develop.d3j3fv57v1jday.amplifyapp.com/) – React, NodeJS, Postgres, Prisma, S3, Mosquitto, and AWS
 - [Findd.io](https://www.findd.io) – React 16, .NET Core API, MobX, Entity Framework, JWT Authentication, TypeScript, MySQL
 - [Total Party Planner](https://app.totalpartyplanner.com/crm/prod/1.0.2/login) – React, .NET Core, SQL Server
-- [Lexfund](​​https://dev.lexfund.com/signup) (React, NextJS, AWS)
+- [Lexfund](​​https://lexfund.com/signup) (React, NextJS, AWS)
 - [Get Nugget](https://app.getnugget.net/dashboard/explore) - Angular
 
 ### 🔹 C# / ASP.NET Projects
